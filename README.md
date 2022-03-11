@@ -3,7 +3,8 @@
 
 ## Glimpse of Infinite Scroll :
 
-![screenshot]("")
+
+![App Screenshot](https://raw.githubusercontent.com/raman-boddula/Infinite-Scroll/main/public/Infinite-Scroll.png)
 
 
 ### Tech Stack Used : 
@@ -11,7 +12,7 @@
 - JavaScript 
 - ReactJS 
 - Ant Desgin 
-- Pexels API 
+- Pexels API(https://api.pexels.com/v1/search?query=bikes)
 
 
 

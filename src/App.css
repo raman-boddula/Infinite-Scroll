@@ -49,11 +49,21 @@
   color: #61dafb;
 }
 
+.inputQuery input {
+  width: 15%;
+  font-size: 20px;
+}
+
 @media screen and (max-width:420px) {
   .prodDiv img {
     padding: 1em;
     width: 20em;
     height: 25em;
+  }
+
+  .inputQuery input {
+    width: 50%;
+    font-size: 20px;
   }
 
   .prodDiv p {

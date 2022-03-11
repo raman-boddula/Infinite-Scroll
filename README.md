@@ -7,6 +7,10 @@
 ![App Screenshot](https://raw.githubusercontent.com/raman-boddula/Infinite-Scroll/main/public/Infinite-Scroll.png)
 
 
+### Features :
+ - Debounce.
+ - Responsive for all devices.
+
 ### Tech Stack Used : 
 
 - JavaScript 

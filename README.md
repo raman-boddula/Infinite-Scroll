@@ -1,5 +1,6 @@
 # Infinite Scroll Using React :
 
+#### Infinite Scroll is something you can get a infinite number of products by scolling .If you keep on scrolling you will get more products on page.
 
 ## Glimpse of Infinite Scroll :
 
@@ -13,12 +14,15 @@
 
 ### Tech Stack Used : 
 
+- HTML5
+- CSS3
 - JavaScript 
 - ReactJS 
 - Ant Desgin 
 - Pexels API(https://api.pexels.com/v1/search?query=bikes)
 
-
+### Deployed Link :
+[View](https://infinite-scroll-raman-boddula.vercel.app/)
 
 
 # Getting Started with Create React App
